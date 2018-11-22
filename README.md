@@ -16,6 +16,16 @@ or Stanford School of Medicine researcher or affiliate.
  - Development of scripts to run an analysis across the sherlock cluster, and running for you.
  - Review of your manuscripts to address potential reviewer issues with reproducible practices.
 
+## Checklists
+
+For some of the above, we have checklists that help us (and you!) go through
+the best practices for ensuring reproducibility and robust software development.
+You are free to use these lists on your own, or ask for support from us
+to implement steps for you. For some checklists, we provide a general version,
+and then several domain or journal specific versions.
+
+ - [Reproducible Software](checklists/reproducible-software.md)
+
 ## Levels of Service
 
 For any support needed, we offer:
