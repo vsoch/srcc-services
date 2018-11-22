@@ -25,6 +25,7 @@ to implement steps for you. For some checklists, we provide a general version,
 and then several domain or journal specific versions.
 
  - [Reproducible Software](checklists/reproducible-software.md)
+ - [Reproducible Publication](checklists/reproducible-publication.md)
 
 ## Levels of Service
 
